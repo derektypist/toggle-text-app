@@ -1,6 +1,6 @@
 # Toggle Text App
 
-Learn about the useState() hook by building an application that hides and shows a piece of text on the screen.
+Learn about the `useState()` hook by building an application that hides and shows a piece of text on the screen.
 
 ## Technologies
 
